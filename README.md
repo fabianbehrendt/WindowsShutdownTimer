@@ -17,5 +17,5 @@ You can do this either by
 
 ----------
 
-######Footnotes:
+#####Footnotes:
 [1]: Path to executable: [/bin/Release/ShutdownTimer.exe](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/bin/Release/ShutdownTimer.exe)
