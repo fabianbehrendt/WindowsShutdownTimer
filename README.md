@@ -1,4 +1,4 @@
-## **Windows Shutdown Timer with a GUI**<sup>1</sup>
+## **Windows Shutdown Timer with a GUI**<sup><a href="https://github.com/fabianbehrendt/WindowsShutdownTimer#footnotes">1</a></sup>
 
 #### **How to shutdown you computer using the GUI:**
 
@@ -17,4 +17,5 @@ You can do this either by
 
 ----------
 
+######Footnotes:
 [1]: Path to executable: [/bin/Release/ShutdownTimer.exe](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/bin/Release/ShutdownTimer.exe)
