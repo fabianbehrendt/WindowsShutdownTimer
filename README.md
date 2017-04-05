@@ -1,4 +1,4 @@
-## **Windows Shutdown Timer with a GUI**[^exec]
+## **Windows Shutdown Timer with a GUI**<sup>1</sup>
 
 #### **How to shutdown you computer using the GUI:**
 
@@ -14,4 +14,4 @@ You can do this either by
 
 > **Tip:** To abort the Shutdown Timer, simply click on the *Abort*-Button.
 
-[^exec]: Path to executable: [/bin/Release/ShutdownTimer.exe](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/bin/Release/ShutdownTimer.exe)
+[1]: Path to executable: [/bin/Release/ShutdownTimer.exe](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/bin/Release/ShutdownTimer.exe)
