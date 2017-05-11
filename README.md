@@ -18,4 +18,4 @@ You can do this either by
 ----------
 
 ##### Footnotes:
-[1]: Path to executable: [/bin/Release/ShutdownTimer.exe](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/bin/Release/ShutdownTimer.exe)
+[1]: Download the executable [here](https://1drv.ms/u/s!Ag07iktTsq-kgo1U93eanKtxeNOWyA).
