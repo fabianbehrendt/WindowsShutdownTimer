@@ -1,8 +1,0 @@
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\bin\Release\ShutdownTimer.exe.config
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\bin\Release\ShutdownTimer.exe
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\bin\Release\ShutdownTimer.pdb
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\obj\Release\ShutdownTimer.Form1.resources
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\obj\Release\ShutdownTimer.Properties.Resources.resources
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\obj\Release\ShutdownTimer.csproj.GenerateResource.Cache
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\obj\Release\ShutdownTimer.exe
-D:\ProgrammeHDD\Visual Studio 2015\Projects\ShutdownTimer\ShutdownTimer\obj\Release\ShutdownTimer.pdb
