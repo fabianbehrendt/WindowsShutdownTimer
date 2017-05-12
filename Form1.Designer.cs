@@ -58,17 +58,9 @@
             // 
             this.comboBox.FormattingEnabled = true;
             this.comboBox.Items.AddRange(new object[] {
-            "5",
-            "10",
             "15",
-            "20",
-            "25",
             "30",
-            "35",
-            "40",
             "45",
-            "50",
-            "55",
             "60"});
             this.comboBox.Location = new System.Drawing.Point(50, 50);
             this.comboBox.Name = "comboBox";
@@ -89,8 +81,10 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.buttonShutdown;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.buttonAbort;
             this.ClientSize = new System.Drawing.Size(284, 211);
             this.Controls.Add(this.labelHeader);
             this.Controls.Add(this.comboBox);
