@@ -18,4 +18,4 @@ You can do this either by
 ----------
 
 ##### Footnotes:
-[1]: Download the executable [here](https://1drv.ms/f/s!Ag07iktTsq-kgo1TzJLH_Jfq-Lx9PQ).
+[1]: You can download the executable [here](https://1drv.ms/f/s!Ag07iktTsq-kgo1TzJLH_Jfq-Lx9PQ).
