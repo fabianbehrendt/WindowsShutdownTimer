@@ -1,6 +1,6 @@
 ## **Windows Shutdown Timer with a GUI**<sup><a href="https://github.com/fabianbehrendt/WindowsShutdownTimer#footnotes">1</a></sup>
 
-#### **How to shutdown you computer using the GUI:**
+#### **How to shutdown your computer using the GUI:**
 
 ![Shutdown Timer Window](https://github.com/fabianbehrendt/WindowsShutdownTimer/blob/master/ShutdownTimer.png?raw=true)
 
